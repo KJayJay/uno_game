@@ -4,6 +4,9 @@
 - QT
 - C++
 
+## Programnming Wisdom
+[The 80/24 Rules](https://blog.ploeh.dk/2019/11/04/the-80-24-rule/)
+
 ## Tutorials
 [Using Doxygen to Document C++ Code](http://www.doxygen.nl/manual/install.html)
 [Qt for Beginners](https://wiki.qt.io/Qt_for_Beginners)
